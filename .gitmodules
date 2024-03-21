@@ -5,3 +5,6 @@
 	path = achstu/public
 	url = https://github.com/achstu/achstu.github.io
 	branch = main
+[submodule "achstu/themes/hugo-book"]
+	path = achstu/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
