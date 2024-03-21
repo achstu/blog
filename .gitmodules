@@ -1,0 +1,7 @@
+[submodule "achstu/themes/beautifulhugo"]
+	path = achstu/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "achstu/public"]
+	path = achstu/public
+	url = https://github.com/achstu/achstu.github.io
+	branch = main

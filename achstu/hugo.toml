@@ -1,0 +1,8 @@
+baseURL = 'https://achstu.github.io/'
+languageCode = 'en-us'
+title = 'Top 20 programming languages'
+
+theme = 'beautifulhugo'
+
+[markup]
+	defaultMarkdownHandler = "goldmark"
